@@ -1,0 +1,3 @@
+import libs = libfox%lib{fox}
+
+exe{driver}: {hxx ixx txx cxx}{**} $libs testscript{**}

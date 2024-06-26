@@ -1,0 +1,6 @@
+$out_root/
+{
+  include libfox/
+}
+
+export $out_root/libfox/$import.target

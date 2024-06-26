@@ -1,0 +1,6 @@
+: 1
+summary: fox project repository
+
+:
+role: prerequisite
+location: https://github.com/karen-arutyunov/foo.git#main
